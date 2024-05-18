@@ -1,1 +1,25 @@
-data: {}
+data:
+  118e1e0c-3c75-3bce-9c7c-148550d72a98:
+    kills: 0
+    wins: 0
+    score: 0
+    loses: 0
+    name: mewekat
+    destroyedBeds: 0
+    deaths: 0
+  44eb4644-0627-34aa-9d9e-4f911551b306:
+    kills: 0
+    wins: 0
+    score: 0
+    loses: 1
+    name: justbreezy1
+    destroyedBeds: 0
+    deaths: 1
+  ecccdb4b-c707-374d-af44-9876207e383d:
+    kills: 1
+    wins: 1
+    score: 185
+    loses: 0
+    name: Cyi
+    destroyedBeds: 1
+    deaths: 0

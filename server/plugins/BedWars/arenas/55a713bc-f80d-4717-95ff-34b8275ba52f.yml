@@ -1,0 +1,74 @@
+name: 'yes'
+pauseCountdown: 60
+gameTime: 3600
+world: world
+pos1: 262.39656411337467;72.36933697604734;-236.1736063871319;-226.50002;55.800007
+pos2: 239.95575294349408;81.72588280960717;-268.32413965151284;-226.50002;55.800007
+specSpawn: 252.37868962821938;77.99879172291898;-247.7279666427371;-236.10002;83.25001
+lobbySpawn: 252.37868962821938;82.86435629495631;-247.7279666427371;-236.10002;83.25001
+lobbySpawnWorld: world
+minPlayers: 2
+postGameWaiting: 3
+teams:
+  '1':
+    isNewColor: false
+    color: BLUE
+    maxPlayers: 1
+    bed: 250.0;73.0;-256.0;0.0;0.0
+    spawn: 253.9231989908206;74.0;-255.5581238678193;-311.10004;29.100002
+  lol:
+    isNewColor: false
+    color: RED
+    maxPlayers: 1
+    bed: 252.0;73.0;-248.0;0.0;0.0
+    spawn: 252.82380060725546;74.0;-247.4429546318235;-289.50003;81.75001
+spawners:
+- maxSpawnedResources: 34
+  hologramEnabled: false
+  location: 246.80386105243412;74.0;-251.07305348308444;0.0;0.0
+  customName: lolz
+  startLevel: 1.0
+  team: lol
+  type: gold
+stores:
+- isBaby: 'false'
+  loc: 257.97067270017135;74.0;-246.74042605173236;-224.40002;33.000004
+  parent: 'true'
+  shop: shop
+  name: thing
+  skin: null
+  type: VILLAGER
+constant:
+  compass-enabled: inherit
+  add-wool-to-inventory-on-join: inherit
+  in-lobby-colored-leather-by-team: inherit
+  allow-crafting: inherit
+  join-randomly-after-lobby-timeout: inherit
+  join-randomly-on-lobby-join: inherit
+  keep-inventory-on-death: inherit
+  prevent-killing-villagers: inherit
+  player-drops: inherit
+  friendlyfire: inherit
+  lobbybossbar: inherit
+  bossbar: inherit
+  lobbyscoreboard: inherit
+  scoreboard: inherit
+  prevent-spawning-mobs: inherit
+  spawner-holograms: inherit
+  spawner-disable-merge: inherit
+  game-start-items: inherit
+  player-respawn-items: inherit
+  spawner-holograms-countdown: inherit
+  damage-when-player-is-not-in-arena: inherit
+  remove-unused-target-blocks: inherit
+  allow-block-falling: inherit
+  holo-above-bed: inherit
+  allow-spectator-join: inherit
+  anchor-auto-fill: inherit
+  anchor-decreasing: inherit
+  cake-target-block-eating: inherit
+  target-block-explosions: inherit
+arenaTime: WORLD
+arenaWeather: default
+lobbyBossBarColor: default
+gameBossBarColor: default

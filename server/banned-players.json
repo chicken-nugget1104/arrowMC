@@ -1,5 +1,341 @@
 [
   {
+    "uuid": "8ec5efe1-1a28-394a-9d0e-f8d6eb163122",
+    "name": "emeralld_block",
+    "created": "2024-05-16 23:15:53 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "ee459773-beea-4890-bdfd-ec2ed6423d16",
+    "name": "Reddit",
+    "created": "2024-05-16 23:18:30 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "599869da-0874-379a-a5ae-3a4666a0596f",
+    "name": "anusman1",
+    "created": "2024-05-16 23:14:38 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "ab940ffb-eaae-3d55-bd70-90d4ba2d4c61",
+    "name": "nigge1",
+    "created": "2024-05-16 23:09:21 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "469971eb-45af-337b-8daa-3f0b11cee6d8",
+    "name": "anti_cyi",
+    "created": "2024-05-16 23:16:45 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "441e8c93-9666-309c-be19-b18d00c59f9e",
+    "name": "anti_fluf",
+    "created": "2024-05-16 23:16:20 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "ec70bcaf-702f-4bb8-b48d-276fa52a780c",
+    "name": "Dream",
+    "created": "2024-05-16 23:11:19 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "ecf83030-b589-3314-9639-536b951f493f",
+    "name": "penisguy3",
+    "created": "2024-05-16 23:22:23 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "831d6f0a-bbe1-3948-970c-2ecaeb5871b5",
+    "name": "anti_chillzz____",
+    "created": "2024-05-16 23:16:48 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "242b8370-fda7-3865-aa4f-24270fbf145c",
+    "name": "camman19YT",
+    "created": "2024-05-16 23:13:38 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "e94f173c-db76-43be-a773-e9019156fa23",
+    "name": "canman18YT",
+    "created": "2024-05-16 23:12:47 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "61864f03-0ab0-3be3-acc1-6a5e50104e35",
+    "name": "bed_wars_1",
+    "created": "2024-05-16 23:23:30 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3ae0c791-8a5e-31f6-b17d-80070ae775fc",
+    "name": "freeiphone",
+    "created": "2024-05-16 23:18:43 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "f87a39d1-f74a-45ad-a44a-93ba14022eef",
+    "name": "Chillzz_",
+    "created": "2024-05-16 23:10:48 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7444655e-8402-378b-8415-36daa23ee186",
+    "name": "bed_wars_2",
+    "created": "2024-05-16 23:23:33 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "67a0818c-b63a-435e-a18c-896a83a3455d",
+    "name": "mewkat",
+    "created": "2024-05-16 23:12:28 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "8ffef79b-1458-43bb-8d04-669377a987e1",
+    "name": "Like",
+    "created": "2024-05-16 23:24:50 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "words"
+  },
+  {
+    "uuid": "772358b7-dc22-47b2-a1c7-90513ec6443d",
+    "name": "Urry",
+    "created": "2024-05-16 23:22:43 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "4b0a935a-cea6-4f8f-ad23-4f9bf77f71c3",
+    "name": "Emerald_Block",
+    "created": "2024-05-16 23:15:45 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "39af20ee-e703-309b-8fe5-202574335011",
+    "name": "antifurry82",
+    "created": "2024-05-16 23:11:35 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "nah"
+  },
+  {
+    "uuid": "9379ebe0-668f-4e9e-aefb-c97f5670d785",
+    "name": "Sandy",
+    "created": "2024-05-16 23:19:37 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3653994d-7120-4a9b-aff2-497457c43bb1",
+    "name": "osl",
+    "created": "2024-05-16 23:24:41 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "cd1d9994-6a5d-4f50-9cda-6f7c0190bed8",
+    "name": "Dreem",
+    "created": "2024-05-16 23:14:17 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "c3d4af7a-c4c2-43bc-8ae8-a0a64725d4c5",
+    "name": "GameOver",
+    "created": "2024-05-16 23:27:28 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "38a0faa9-012c-3c06-b984-14df88cf19e6",
+    "name": "amoogus",
+    "created": "2024-05-16 23:20:31 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3746b6eb-d53f-3e56-93a6-edf2e2a8ca87",
+    "name": "chillzz___",
+    "created": "2024-05-16 23:10:42 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "b5469398-e35e-4604-804b-d2d07a55abe3",
+    "name": "Dreamm",
+    "created": "2024-05-16 23:12:19 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3899484b-62b0-378f-bba3-8fefffaec753",
+    "name": "sandman18YT",
+    "created": "2024-05-16 23:12:50 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "1b16f4c0-287e-4050-bd58-d3ee9d8bdc6a",
+    "name": "Youtube",
+    "created": "2024-05-16 23:18:35 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "bd3dd5a4-0438-4699-b2fd-36f518154b41",
+    "name": "GeorgeNotFound",
+    "created": "2024-05-16 23:11:26 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "00d8bec4-4d2c-495d-9859-b64656d8ff65",
+    "name": "Microsoft",
+    "created": "2024-05-16 23:18:40 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7584151f-cb67-3ebc-b4b6-12d46e570a65",
+    "name": "favoritesign",
+    "created": "2024-05-16 23:25:05 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "335b4afa-c29d-48a3-8c14-52b3010b90f3",
+    "name": "Tecnoblade",
+    "created": "2024-05-16 23:12:11 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "c9ff0cc1-1d92-32fe-ab0f-639f4f9859eb",
+    "name": "hotcyishere",
+    "created": "2024-05-16 23:19:28 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "f4a514c5-a9e2-4855-a7b9-6ffa9caa46cb",
+    "name": "Technooblade",
+    "created": "2024-05-16 23:11:53 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "1a53c3e1-bf76-39a4-aad3-137f7ba07859",
+    "name": "niggman192",
+    "created": "2024-05-16 23:26:41 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "d3b85f0d-0399-37bc-abd3-54b75af886c6",
+    "name": "penisguy1",
+    "created": "2024-05-16 23:21:22 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "142e2bf3-6ecc-35e6-bbcd-dfa5e64b7fe7",
+    "name": "mewekot",
+    "created": "2024-05-16 23:09:38 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7fbdb7d4-ebe3-40bd-84e6-a973cc16720b",
+    "name": "camman18",
+    "created": "2024-05-16 23:12:39 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "5840ffff-d2e5-42bc-a1e5-ca0cbe30d1d0",
+    "name": "pkl",
+    "created": "2024-05-16 23:19:43 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7d1e0b8a-51aa-3c90-a50f-6a1255c5f635",
+    "name": "miewkat",
+    "created": "2024-05-16 23:15:05 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "dcac8700-2359-4f87-84c9-0dd1dabfb3b6",
+    "name": "SandG",
+    "created": "2024-05-16 23:19:39 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "ad2e2a94-64d4-34e3-ad86-fcf4d91ec96b",
     "name": "niggman13",
     "created": "2024-05-16 22:02:59 +0000",
@@ -8,17 +344,25 @@
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "63344942-043f-3e61-b543-e3ca066318bb",
-    "name": "niggman92",
-    "created": "2024-05-16 22:05:51 +0000",
-    "source": "Server",
+    "uuid": "b360af18-8a93-3162-9f0c-da76f82abe88",
+    "name": "sholdow",
+    "created": "2024-05-16 23:27:49 +0000",
+    "source": "Cyi",
     "expires": "forever",
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "e884245d-8ee2-379a-ab27-6ab92e61e1ea",
-    "name": "niggman12",
-    "created": "2024-05-16 22:02:56 +0000",
+    "uuid": "fe7299ea-f362-495c-8cd2-9a43d078b150",
+    "name": "GitLab",
+    "created": "2024-05-16 23:18:27 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "ed6f25b9-592c-3ba3-8174-0aa50078601a",
+    "name": "powerade4321",
+    "created": "2024-05-16 23:23:47 +0000",
     "source": "Cyi",
     "expires": "forever",
     "reason": "Banned by an operator."
@@ -32,9 +376,681 @@
     "reason": "Banned by an operator."
   },
   {
+    "uuid": "79072144-a617-4049-8e69-51cc0d91ce85",
+    "name": "Sandman18",
+    "created": "2024-05-16 23:12:36 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "45eecaec-45e8-3b38-a2a2-ca3b4ef3ef1c",
+    "name": "workkk",
+    "created": "2024-05-16 23:23:04 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "b0c8ecd8-6934-4019-b7c1-7593038baefe",
+    "name": "canman18",
+    "created": "2024-05-16 23:12:41 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "51268221-5fd8-3c54-a623-140e2027b612",
+    "name": ":/",
+    "created": "2024-05-16 23:24:13 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "281c5204-2894-3263-a532-3d7d8f866785",
+    "name": "freeipad",
+    "created": "2024-05-16 23:18:46 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "4c332be6-abd2-38de-adf7-87a7a21cdb55",
+    "name": "nigger1",
+    "created": "2024-05-16 23:09:07 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "b876ec32-e396-476b-a115-8438d83c67d4",
+    "name": "Technoblade",
+    "created": "2024-05-16 23:11:48 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "1ccd7824-393d-4205-a094-ca73cb4cbe91",
+    "name": "amogus",
+    "created": "2024-05-16 23:20:06 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "2bf4a589-dd7b-381e-a7ad-16dab71e22ab",
+    "name": "meweekatt",
+    "created": "2024-05-16 23:16:25 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "4380965f-8872-4b47-ab81-69dc19c283ba",
+    "name": "yee1",
+    "created": "2024-05-16 23:20:03 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "514b8b0f-ad09-3b25-aad8-c69744f94d26",
+    "name": "nigg1",
+    "created": "2024-05-16 23:09:11 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "84e19065-2d87-4155-9c28-9fd3a467099d",
+    "name": "CCYi",
+    "created": "2024-05-16 23:15:12 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3aada9fb-bd19-4381-819d-638776f6300f",
+    "name": "PPA",
+    "created": "2024-05-16 23:19:53 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "e0edf739-f6a5-440f-9588-44616f4555dc",
+    "name": "Cactus",
+    "created": "2024-05-16 23:21:45 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "80af2295-3131-4d0e-b2d7-d7a41d302ba9",
+    "name": "bwu",
+    "created": "2024-05-16 23:24:37 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7d35e58b-01ef-30af-a9b0-dd0a26b71f27",
+    "name": "antifluff82",
+    "created": "2024-05-16 23:16:05 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "6f2f9fe9-027d-3426-ae2d-ad98566dca16",
+    "name": "antifluff",
+    "created": "2024-05-16 23:16:07 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "44e54526-c567-37d7-99a6-a37b3138d425",
+    "name": "antifurry12",
+    "created": "2024-05-16 23:14:05 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "deb40747-0470-43be-9720-f8ba51147895",
+    "name": "emm",
+    "created": "2024-05-16 23:23:53 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0830f034-695f-4c58-b767-33725f462b34",
+    "name": "Uwb",
+    "created": "2024-05-16 23:24:27 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "40254325-ba80-34f2-a744-f60e1c7b906b",
+    "name": "tecnoblaede",
+    "created": "2024-05-16 23:12:07 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "1ac813cb-ea50-437e-b307-1de88d008313",
+    "name": "World",
+    "created": "2024-05-16 23:24:05 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3015bcf0-bedd-33fb-bc7e-460b4f1b2c95",
+    "name": "meweekat",
+    "created": "2024-05-16 23:09:42 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "046e0782-130f-314e-b2f5-def9248b2593",
+    "name": "emerald_blok",
+    "created": "2024-05-16 23:15:48 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "e884245d-8ee2-379a-ab27-6ab92e61e1ea",
+    "name": "niggman12",
+    "created": "2024-05-16 22:02:56 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "86d9eae9-7024-44df-adaf-e2fbbce6c734",
+    "name": "cyiiiii",
+    "created": "2024-05-16 23:10:23 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "199c5af2-42bd-4764-94e4-eaf11939ae2b",
+    "name": "Eie",
+    "created": "2024-05-16 23:19:50 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "ff7ef13a-ab33-330b-90aa-235fcabbd168",
+    "name": "chillz____",
+    "created": "2024-05-16 23:10:54 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "58b3446d-5f36-33a1-990d-aa1a45f1bad6",
+    "name": "hotboyshere",
+    "created": "2024-05-16 23:18:55 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "808e1717-e78d-47c2-90c1-7858b495c786",
+    "name": "chillzz__",
+    "created": "2024-05-16 23:10:45 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "202db8d4-1536-3034-9832-ad97c0c5e2cc",
+    "name": "I_amm_Mando",
+    "created": "2024-05-16 23:15:31 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "781305fd-60b8-34a8-8c02-ac658805aa37",
+    "name": "deluxhlob",
+    "created": "2024-05-16 23:19:33 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "40913482-e165-35d3-a7c7-217ab2497b2d",
+    "name": "anti_mewekat",
+    "created": "2024-05-16 23:16:42 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0ac23412-7241-4edc-9b87-b53c59a09bb5",
+    "name": "Skibidislicers",
+    "created": "2024-05-16 23:20:26 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "15"
+  },
+  {
+    "uuid": "06388133-3b99-30fa-8830-43fe20d7dbf8",
+    "name": "penisguy2",
+    "created": "2024-05-16 23:22:16 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "a69e74c2-d452-4c78-ba80-3c3a7ae58a94",
+    "name": "stoneguy2",
+    "created": "2024-05-16 23:17:11 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0d98a3a4-eb22-3685-a839-a2a688505061",
+    "name": "nig1",
+    "created": "2024-05-16 23:09:15 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "94486412-e229-3440-ab51-4eb024eed6fe",
+    "name": "skibidislicers14",
+    "created": "2024-05-16 23:20:11 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7489db25-c6dd-4b90-a70e-bcc42fbae198",
+    "name": "Anti_furry",
+    "created": "2024-05-16 23:14:09 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "175f6dd0-1ffe-3268-8b62-42cee1e1bce0",
+    "name": "Cyiiii",
+    "created": "2024-05-16 23:10:15 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "11ab92d3-4db8-48fc-8a55-8690bedbb35f",
+    "name": "EmeraldBlock",
+    "created": "2024-05-16 23:15:56 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7d7bfbb7-1dcc-3703-be3d-8a59ee03ebf9",
+    "name": "antii_furry",
+    "created": "2024-05-16 23:14:13 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0c9e0981-14e7-4b71-b097-9b20e3cf3cc7",
+    "name": "hiuh",
+    "created": "2024-05-16 23:23:14 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3ad04a73-04e3-3c03-be8c-2d8914ade8ae",
+    "name": "hotmewekatshere",
+    "created": "2024-05-16 23:19:18 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "63344942-043f-3e61-b543-e3ca066318bb",
+    "name": "niggman92",
+    "created": "2024-05-16 22:05:51 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "4b91911a-00ea-33e9-b8f2-5c8b2f513981",
+    "name": "hotgirlshere",
+    "created": "2024-05-16 23:18:52 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "6f31c9ca-9687-4c03-a0b6-5066d6dc3457",
+    "name": "Twitter",
+    "created": "2024-05-16 23:18:33 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "bc5c5d41-60d9-4373-a48f-602b4e1b83f5",
+    "name": "Ewq",
+    "created": "2024-05-16 23:19:56 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "67eb5f24-b9e6-330c-acf3-81af1654687b",
+    "name": "mewekatt",
+    "created": "2024-05-16 23:10:32 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "d22be8f9-d1b5-3fce-b83c-351adacb8408",
+    "name": "chullzz____",
+    "created": "2024-05-16 23:11:14 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "6b1c926e-e0be-30d0-84f4-36a290c9c6aa",
+    "name": "mewetak",
+    "created": "2024-05-16 23:14:59 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "c0228b6e-178b-49e6-8986-f9f4df0580ce",
+    "name": "camman18YT",
+    "created": "2024-05-16 23:12:44 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "06438868-a03b-3da5-a0b7-7bf643de0cb0",
+    "name": "niggman91",
+    "created": "2024-05-16 23:14:33 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "9f6437a5-cb07-4ccd-a113-0374f99a99aa",
+    "name": "AmongUs",
+    "created": "2024-05-16 23:20:08 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "630862a6-f589-3535-b741-eab83b6883c8",
+    "name": "mewekit",
+    "created": "2024-05-16 23:16:59 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "56dd78f9-50fa-3a59-99c2-8d31c2240032",
+    "name": "sanddman18",
+    "created": "2024-05-16 23:23:19 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3c7db14d-ac4b-4e35-b2c6-3b2237f382be",
+    "name": "Apple",
+    "created": "2024-05-16 23:18:37 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "811495bf-27bc-311a-a2e1-893a17c71e26",
+    "name": "anti_chillz____",
+    "created": "2024-05-16 23:16:54 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "31df25a5-9389-3425-bd9c-5cd50291e716",
+    "name": "hottreeshere",
+    "created": "2024-05-16 23:19:03 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "1a050a25-fc78-373a-8f37-dc3f5f0cc1ff",
+    "name": "skibidislicers17",
+    "created": "2024-05-16 23:20:15 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "95d616b6-8dc3-4729-b350-6860bd6e894b",
+    "name": "Uhh",
+    "created": "2024-05-16 23:23:41 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "81510807-3316-47b7-bcbe-9603a3c7faeb",
+    "name": "Dreaam",
+    "created": "2024-05-16 23:12:21 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0599de63-328e-363f-b464-4cded39064e4",
+    "name": "niggman25",
+    "created": "2024-05-16 23:14:30 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "9037373f-727f-3631-86fe-cf4456f42c81",
+    "name": "Cyyi",
+    "created": "2024-05-16 23:15:15 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "b0ed4de3-d4b2-4e92-88f5-bcb4fab229b2",
+    "name": "CYIII",
+    "created": "2024-05-16 23:10:20 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "8ba986f4-85f3-4de4-a2ad-aaa58a5bcaf8",
+    "name": "amooogus",
+    "created": "2024-05-16 23:21:38 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "fc092fee-6b57-4770-9fe0-f2ecc60318cf",
+    "name": "Words",
+    "created": "2024-05-16 23:24:29 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "33ba7a55-c748-466c-bd69-2ebcaac71489",
+    "name": "UeW",
+    "created": "2024-05-16 23:24:35 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "02bc3de5-b3ff-4b00-85b7-5222b2104710",
+    "name": "Quiz",
+    "created": "2024-05-16 23:22:39 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "37308358-1b12-3732-a842-dcc22948feb5",
+    "name": "anti_fluff",
+    "created": "2024-05-16 23:16:17 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0d1370ae-a462-3d99-826f-deacac9e6b62",
+    "name": "anti_fluff82",
+    "created": "2024-05-16 23:16:14 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "422d5c03-5040-358a-bdb8-38213d227874",
+    "name": "floofball8281",
+    "created": "2024-05-16 23:17:06 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "133023c0-8ce9-3de4-9049-32db9ef7e7dc",
     "name": "ngggggaaaaa",
     "created": "2024-05-16 22:02:53 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "ec7828ec-6eb9-35f9-8eae-9f6abe679731",
+    "name": "mewwkot",
+    "created": "2024-05-16 23:14:47 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "26bdff37-fec8-48f1-980f-66bf69ee751c",
+    "name": "BadBoyHalo",
+    "created": "2024-05-16 23:11:23 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "278140d4-2dbd-3df5-b6a2-cce641162123",
+    "name": "camman19",
+    "created": "2024-05-16 23:13:41 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "f6d925e9-b6a6-42e9-8ee6-7865ef3ef749",
+    "name": "cyii",
+    "created": "2024-05-16 23:10:13 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "872021ad-f457-4855-a504-9762e534c60a",
+    "name": "ESR",
+    "created": "2024-05-16 23:19:48 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7b5bb75b-7cf8-376d-bc62-fa658f3d65b4",
+    "name": "arrowmcoffical",
+    "created": "2024-05-16 23:23:39 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0f49b170-23f5-42f9-a7d3-405f09da20bf",
+    "name": "Sigh",
+    "created": "2024-05-16 23:09:55 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "a7babd03-867f-3f25-b359-d49bc9ca3a4a",
+    "name": "hiuhhhh",
+    "created": "2024-05-16 23:23:10 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "594e3879-eef5-4f95-98c1-b750622a6295",
+    "name": "KZL",
+    "created": "2024-05-16 23:19:45 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "1399f4d8-7572-4f2a-a0ac-4651c7093726",
+    "name": "asj",
+    "created": "2024-05-16 23:19:59 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3f4349cc-99b1-4303-acca-a0de60e366f3",
+    "name": "GitHub",
+    "created": "2024-05-16 23:18:26 +0000",
+    "source": "Cyi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "55eb3295-2556-34cd-ac82-230ce7446546",
+    "name": "treemate82",
+    "created": "2024-05-16 23:18:59 +0000",
     "source": "Cyi",
     "expires": "forever",
     "reason": "Banned by an operator."

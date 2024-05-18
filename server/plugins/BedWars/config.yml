@@ -24,7 +24,7 @@ game-start-items: false
 player-respawn-items: false
 gived-game-start-items: []
 gived-player-respawn-items: []
-disable-hunger: false
+disable-hunger: true
 automatic-coloring-in-shop: true
 sell-max-64-per-click-in-shop: true
 enable-cheat-command-for-admins: false
